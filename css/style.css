@@ -396,8 +396,8 @@ table {
 .single-page__content iframe {
   width: 100%;
   height: 300px;
-  -webkit-backdrop-filter: grayscale(1);
-          backdrop-filter: grayscale(1);
+  -webkit-filter: grayscale(1);
+          filter: grayscale(1);
   padding: 20px 0;
 }
 
